@@ -78,10 +78,10 @@ Check that the code's imports match the host project, that all values have stabl
   </thead>
   <tbody>
     <tr>
-      <td><a href="cards-avatars-badges-and-lists.md">019 - Cards, avatars, badges, and lists</a></td>
+      <td><a href="019-cards-avatars-badges-and-lists.md">019 - Cards, avatars, badges, and lists</a></td>
       <td><a href="../lessons/020-images-icons-and-file-upload.md">Chapter lesson</a></td>
       <td><a href="../qnas/020-images-icons-and-file-upload.md">Chapter Q&amp;A</a></td>
-      <td><a href="accordion-and-collapsible-content.md">021 - Accordion and collapsible content</a></td>
+      <td><a href="021-accordion-and-collapsible-content.md">021 - Accordion and collapsible content</a></td>
     </tr>
   </tbody>
 </table>
