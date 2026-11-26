@@ -89,10 +89,10 @@ Compare your implementation with the matching Q&A and example files. Verify the 
   </thead>
   <tbody>
     <tr>
-      <td><a href="introduction-to-chakra-ui-v3.md">001 - Introduction to Chakra UI v3</a></td>
+      <td><a href="001-introduction-to-chakra-ui-v3.md">001 - Introduction to Chakra UI v3</a></td>
       <td><a href="../qnas/002-installation-and-project-setup.md">Chapter Q&amp;A</a></td>
       <td><a href="../examples/002-installation-and-project-setup.md">Chapter example</a></td>
-      <td><a href="providers-snippets-and-framework-integration.md">003 - Providers, snippets, and framework integration</a></td>
+      <td><a href="003-providers-snippets-and-framework-integration.md">003 - Providers, snippets, and framework integration</a></td>
     </tr>
   </tbody>
 </table>
