@@ -69,10 +69,10 @@ Check that the code's imports match the host project, that all values have stabl
   </thead>
   <tbody>
     <tr>
-      <td><a href="buttons-and-action-components.md">014 - Buttons and action components</a></td>
+      <td><a href="014-buttons-and-action-components.md">014 - Buttons and action components</a></td>
       <td><a href="../lessons/015-fields-inputs-and-textareas.md">Chapter lesson</a></td>
       <td><a href="../qnas/015-fields-inputs-and-textareas.md">Chapter Q&amp;A</a></td>
-      <td><a href="checkbox-radio-and-switch-controls.md">016 - Checkbox, radio, and switch controls</a></td>
+      <td><a href="016-checkbox-radio-and-switch-controls.md">016 - Checkbox, radio, and switch controls</a></td>
     </tr>
   </tbody>
 </table>
