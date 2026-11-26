@@ -86,10 +86,10 @@ Compare your implementation with the matching Q&A and example files. Verify the 
   </thead>
   <tbody>
     <tr>
-      <td><a href="component-anatomy-compound-apis-and-state.md">004 - Component anatomy, compound APIs, and state</a></td>
+      <td><a href="004-component-anatomy-compound-apis-and-state.md">004 - Component anatomy, compound APIs, and state</a></td>
       <td><a href="../qnas/005-style-props-and-token-aware-styling.md">Chapter Q&amp;A</a></td>
       <td><a href="../examples/005-style-props-and-token-aware-styling.md">Chapter example</a></td>
-      <td><a href="responsive-and-conditional-styles.md">006 - Responsive and conditional styles</a></td>
+      <td><a href="006-responsive-and-conditional-styles.md">006 - Responsive and conditional styles</a></td>
     </tr>
   </tbody>
 </table>
