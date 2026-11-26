@@ -89,10 +89,10 @@ Compare your implementation with the matching Q&A and example files. Verify the 
   </thead>
   <tbody>
     <tr>
-      <td><a href="typescript-and-type-generation.md">033 - TypeScript and type generation</a></td>
+      <td><a href="033-typescript-and-type-generation.md">033 - TypeScript and type generation</a></td>
       <td><a href="../qnas/034-nextjs-server-components-and-ssr.md">Chapter Q&amp;A</a></td>
       <td><a href="../examples/034-nextjs-server-components-and-ssr.md">Chapter example</a></td>
-      <td><a href="testing-chakra-ui-components.md">035 - Testing Chakra UI components</a></td>
+      <td><a href="035-testing-chakra-ui-components.md">035 - Testing Chakra UI components</a></td>
     </tr>
   </tbody>
 </table>
