@@ -89,10 +89,10 @@ Compare your implementation with the matching Q&A and example files. Verify the 
   </thead>
   <tbody>
     <tr>
-      <td><a href="tabs-steps-and-navigation.md">022 - Tabs, steps, and navigation</a></td>
+      <td><a href="022-tabs-steps-and-navigation.md">022 - Tabs, steps, and navigation</a></td>
       <td><a href="../qnas/023-menus-popovers-tooltips-and-hover-cards.md">Chapter Q&amp;A</a></td>
       <td><a href="../examples/023-menus-popovers-tooltips-and-hover-cards.md">Chapter example</a></td>
-      <td><a href="dialogs-drawers-and-alert-dialogs.md">024 - Dialogs, drawers, and alert dialogs</a></td>
+      <td><a href="024-dialogs-drawers-and-alert-dialogs.md">024 - Dialogs, drawers, and alert dialogs</a></td>
     </tr>
   </tbody>
 </table>
