@@ -46,10 +46,10 @@ Use alertdialog semantics for a consequential message that requires a response, 
   </thead>
   <tbody>
     <tr>
-      <td><a href="menus-popovers-tooltips-and-hover-cards.md">023 - Menus, popovers, tooltips, and hover cards</a></td>
+      <td><a href="023-menus-popovers-tooltips-and-hover-cards.md">023 - Menus, popovers, tooltips, and hover cards</a></td>
       <td><a href="../lessons/024-dialogs-drawers-and-alert-dialogs.md">Chapter lesson</a></td>
       <td><a href="../examples/024-dialogs-drawers-and-alert-dialogs.md">Chapter example</a></td>
-      <td><a href="alerts-toasts-progress-and-loading-states.md">025 - Alerts, toasts, progress, and loading states</a></td>
+      <td><a href="025-alerts-toasts-progress-and-loading-states.md">025 - Alerts, toasts, progress, and loading states</a></td>
     </tr>
   </tbody>
 </table>
