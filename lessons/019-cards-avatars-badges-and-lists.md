@@ -96,10 +96,10 @@ Compare your implementation with the matching Q&A and example files. Verify the 
   </thead>
   <tbody>
     <tr>
-      <td><a href="form-validation-and-react-hook-form.md">018 - Form validation and React Hook Form</a></td>
+      <td><a href="018-form-validation-and-react-hook-form.md">018 - Form validation and React Hook Form</a></td>
       <td><a href="../qnas/019-cards-avatars-badges-and-lists.md">Chapter Q&amp;A</a></td>
       <td><a href="../examples/019-cards-avatars-badges-and-lists.md">Chapter example</a></td>
-      <td><a href="images-icons-and-file-upload.md">020 - Images, icons, and file upload</a></td>
+      <td><a href="020-images-icons-and-file-upload.md">020 - Images, icons, and file upload</a></td>
     </tr>
   </tbody>
 </table>
