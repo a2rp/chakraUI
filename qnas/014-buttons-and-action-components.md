@@ -46,10 +46,10 @@ Use the loading and disabled state around the asynchronous operation, and make s
   </thead>
   <tbody>
     <tr>
-      <td><a href="grid-containers-and-positioning.md">013 - Grid, containers, and positioning</a></td>
+      <td><a href="013-grid-containers-and-positioning.md">013 - Grid, containers, and positioning</a></td>
       <td><a href="../lessons/014-buttons-and-action-components.md">Chapter lesson</a></td>
       <td><a href="../examples/014-buttons-and-action-components.md">Chapter example</a></td>
-      <td><a href="fields-inputs-and-textareas.md">015 - Fields, inputs, and textareas</a></td>
+      <td><a href="015-fields-inputs-and-textareas.md">015 - Fields, inputs, and textareas</a></td>
     </tr>
   </tbody>
 </table>
