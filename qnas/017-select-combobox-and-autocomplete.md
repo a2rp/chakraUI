@@ -46,10 +46,10 @@ A combobox combines an input with a selectable popup. Autocomplete describes a s
   </thead>
   <tbody>
     <tr>
-      <td><a href="checkbox-radio-and-switch-controls.md">016 - Checkbox, radio, and switch controls</a></td>
+      <td><a href="016-checkbox-radio-and-switch-controls.md">016 - Checkbox, radio, and switch controls</a></td>
       <td><a href="../lessons/017-select-combobox-and-autocomplete.md">Chapter lesson</a></td>
       <td><a href="../examples/017-select-combobox-and-autocomplete.md">Chapter example</a></td>
-      <td><a href="form-validation-and-react-hook-form.md">018 - Form validation and React Hook Form</a></td>
+      <td><a href="018-form-validation-and-react-hook-form.md">018 - Form validation and React Hook Form</a></td>
     </tr>
   </tbody>
 </table>
