@@ -46,10 +46,10 @@ The recipe and component must agree on slot identifiers. A mismatch means the in
   </thead>
   <tbody>
     <tr>
-      <td><a href="recipes-and-reusable-component-variants.md">028 - Recipes and reusable component variants</a></td>
+      <td><a href="028-recipes-and-reusable-component-variants.md">028 - Recipes and reusable component variants</a></td>
       <td><a href="../lessons/029-slot-recipes-and-multi-part-components.md">Chapter lesson</a></td>
       <td><a href="../examples/029-slot-recipes-and-multi-part-components.md">Chapter example</a></td>
-      <td><a href="composition-chakra-factory-and-aschild.md">030 - Composition, Chakra factory, and asChild</a></td>
+      <td><a href="030-composition-chakra-factory-and-aschild.md">030 - Composition, Chakra factory, and asChild</a></td>
     </tr>
   </tbody>
 </table>
