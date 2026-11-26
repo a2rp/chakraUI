@@ -90,10 +90,10 @@ Compare your implementation with the matching Q&A and example files. Verify the 
   </thead>
   <tbody>
     <tr>
-      <td><a href="recipes-and-reusable-component-variants.md">028 - Recipes and reusable component variants</a></td>
+      <td><a href="028-recipes-and-reusable-component-variants.md">028 - Recipes and reusable component variants</a></td>
       <td><a href="../qnas/029-slot-recipes-and-multi-part-components.md">Chapter Q&amp;A</a></td>
       <td><a href="../examples/029-slot-recipes-and-multi-part-components.md">Chapter example</a></td>
-      <td><a href="composition-chakra-factory-and-aschild.md">030 - Composition, Chakra factory, and asChild</a></td>
+      <td><a href="030-composition-chakra-factory-and-aschild.md">030 - Composition, Chakra factory, and asChild</a></td>
     </tr>
   </tbody>
 </table>
