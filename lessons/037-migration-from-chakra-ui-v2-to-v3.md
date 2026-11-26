@@ -83,10 +83,10 @@ Compare your implementation with the matching Q&A and example files. Verify the 
   </thead>
   <tbody>
     <tr>
-      <td><a href="performance-and-styling-architecture.md">036 - Performance and styling architecture</a></td>
+      <td><a href="036-performance-and-styling-architecture.md">036 - Performance and styling architecture</a></td>
       <td><a href="../qnas/037-migration-from-chakra-ui-v2-to-v3.md">Chapter Q&amp;A</a></td>
       <td><a href="../examples/037-migration-from-chakra-ui-v2-to-v3.md">Chapter example</a></td>
-      <td><a href="production-design-system-and-maintenance.md">038 - Production design system and maintenance</a></td>
+      <td><a href="038-production-design-system-and-maintenance.md">038 - Production design system and maintenance</a></td>
     </tr>
   </tbody>
 </table>
