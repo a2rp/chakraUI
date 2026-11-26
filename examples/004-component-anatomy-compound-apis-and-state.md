@@ -75,10 +75,10 @@ Check that the code's imports match the host project, that all values have stabl
   </thead>
   <tbody>
     <tr>
-      <td><a href="providers-snippets-and-framework-integration.md">003 - Providers, snippets, and framework integration</a></td>
+      <td><a href="003-providers-snippets-and-framework-integration.md">003 - Providers, snippets, and framework integration</a></td>
       <td><a href="../lessons/004-component-anatomy-compound-apis-and-state.md">Chapter lesson</a></td>
       <td><a href="../qnas/004-component-anatomy-compound-apis-and-state.md">Chapter Q&amp;A</a></td>
-      <td><a href="style-props-and-token-aware-styling.md">005 - Style props and token-aware styling</a></td>
+      <td><a href="005-style-props-and-token-aware-styling.md">005 - Style props and token-aware styling</a></td>
     </tr>
   </tbody>
 </table>
