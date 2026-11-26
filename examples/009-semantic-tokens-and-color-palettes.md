@@ -69,10 +69,10 @@ Check that the code's imports match the host project, that all values have stabl
   </thead>
   <tbody>
     <tr>
-      <td><a href="custom-system-and-theme-configuration.md">008 - Custom system and theme configuration</a></td>
+      <td><a href="008-custom-system-and-theme-configuration.md">008 - Custom system and theme configuration</a></td>
       <td><a href="../lessons/009-semantic-tokens-and-color-palettes.md">Chapter lesson</a></td>
       <td><a href="../qnas/009-semantic-tokens-and-color-palettes.md">Chapter Q&amp;A</a></td>
-      <td><a href="color-modes-and-dark-mode.md">010 - Color modes and dark mode</a></td>
+      <td><a href="010-color-modes-and-dark-mode.md">010 - Color modes and dark mode</a></td>
     </tr>
   </tbody>
 </table>
