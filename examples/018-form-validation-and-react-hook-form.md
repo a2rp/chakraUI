@@ -78,10 +78,10 @@ Check that the code's imports match the host project, that all values have stabl
   </thead>
   <tbody>
     <tr>
-      <td><a href="select-combobox-and-autocomplete.md">017 - Select, Combobox, and Autocomplete</a></td>
+      <td><a href="017-select-combobox-and-autocomplete.md">017 - Select, Combobox, and Autocomplete</a></td>
       <td><a href="../lessons/018-form-validation-and-react-hook-form.md">Chapter lesson</a></td>
       <td><a href="../qnas/018-form-validation-and-react-hook-form.md">Chapter Q&amp;A</a></td>
-      <td><a href="cards-avatars-badges-and-lists.md">019 - Cards, avatars, badges, and lists</a></td>
+      <td><a href="019-cards-avatars-badges-and-lists.md">019 - Cards, avatars, badges, and lists</a></td>
     </tr>
   </tbody>
 </table>
