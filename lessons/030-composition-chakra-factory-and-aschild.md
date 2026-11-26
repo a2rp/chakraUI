@@ -84,10 +84,10 @@ Compare your implementation with the matching Q&A and example files. Verify the 
   </thead>
   <tbody>
     <tr>
-      <td><a href="slot-recipes-and-multi-part-components.md">029 - Slot recipes and multi-part components</a></td>
+      <td><a href="029-slot-recipes-and-multi-part-components.md">029 - Slot recipes and multi-part components</a></td>
       <td><a href="../qnas/030-composition-chakra-factory-and-aschild.md">Chapter Q&amp;A</a></td>
       <td><a href="../examples/030-composition-chakra-factory-and-aschild.md">Chapter example</a></td>
-      <td><a href="presence-animation-and-transitions.md">031 - Presence, animation, and transitions</a></td>
+      <td><a href="031-presence-animation-and-transitions.md">031 - Presence, animation, and transitions</a></td>
     </tr>
   </tbody>
 </table>
