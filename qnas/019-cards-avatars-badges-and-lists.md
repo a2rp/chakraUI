@@ -46,10 +46,10 @@ Avoid that. Include status text so the meaning remains available without relying
   </thead>
   <tbody>
     <tr>
-      <td><a href="form-validation-and-react-hook-form.md">018 - Form validation and React Hook Form</a></td>
+      <td><a href="018-form-validation-and-react-hook-form.md">018 - Form validation and React Hook Form</a></td>
       <td><a href="../lessons/019-cards-avatars-badges-and-lists.md">Chapter lesson</a></td>
       <td><a href="../examples/019-cards-avatars-badges-and-lists.md">Chapter example</a></td>
-      <td><a href="images-icons-and-file-upload.md">020 - Images, icons, and file upload</a></td>
+      <td><a href="020-images-icons-and-file-upload.md">020 - Images, icons, and file upload</a></td>
     </tr>
   </tbody>
 </table>
