@@ -85,10 +85,10 @@ Compare your implementation with the matching Q&A and example files. Verify the 
   </thead>
   <tbody>
     <tr>
-      <td><a href="custom-system-and-theme-configuration.md">008 - Custom system and theme configuration</a></td>
+      <td><a href="008-custom-system-and-theme-configuration.md">008 - Custom system and theme configuration</a></td>
       <td><a href="../qnas/009-semantic-tokens-and-color-palettes.md">Chapter Q&amp;A</a></td>
       <td><a href="../examples/009-semantic-tokens-and-color-palettes.md">Chapter example</a></td>
-      <td><a href="color-modes-and-dark-mode.md">010 - Color modes and dark mode</a></td>
+      <td><a href="010-color-modes-and-dark-mode.md">010 - Color modes and dark mode</a></td>
     </tr>
   </tbody>
 </table>
