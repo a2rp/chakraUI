@@ -73,10 +73,10 @@ Check that the code's imports match the host project, that all values have stabl
   </thead>
   <tbody>
     <tr>
-      <td><a href="introduction-to-chakra-ui-v3.md">001 - Introduction to Chakra UI v3</a></td>
+      <td><a href="001-introduction-to-chakra-ui-v3.md">001 - Introduction to Chakra UI v3</a></td>
       <td><a href="../lessons/002-installation-and-project-setup.md">Chapter lesson</a></td>
       <td><a href="../qnas/002-installation-and-project-setup.md">Chapter Q&amp;A</a></td>
-      <td><a href="providers-snippets-and-framework-integration.md">003 - Providers, snippets, and framework integration</a></td>
+      <td><a href="003-providers-snippets-and-framework-integration.md">003 - Providers, snippets, and framework integration</a></td>
     </tr>
   </tbody>
 </table>
