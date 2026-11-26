@@ -46,10 +46,10 @@ Avoid unnecessary differences. Keyboard and screen-reader order follow the DOM, 
   </thead>
   <tbody>
     <tr>
-      <td><a href="layout-primitives-box-flex-and-stack.md">012 - Layout primitives: Box, Flex, and Stack</a></td>
+      <td><a href="012-layout-primitives-box-flex-and-stack.md">012 - Layout primitives: Box, Flex, and Stack</a></td>
       <td><a href="../lessons/013-grid-containers-and-positioning.md">Chapter lesson</a></td>
       <td><a href="../examples/013-grid-containers-and-positioning.md">Chapter example</a></td>
-      <td><a href="buttons-and-action-components.md">014 - Buttons and action components</a></td>
+      <td><a href="014-buttons-and-action-components.md">014 - Buttons and action components</a></td>
     </tr>
   </tbody>
 </table>
