@@ -69,10 +69,10 @@ Check that the code's imports match the host project, that all values have stabl
   </thead>
   <tbody>
     <tr>
-      <td><a href="responsive-and-conditional-styles.md">006 - Responsive and conditional styles</a></td>
+      <td><a href="006-responsive-and-conditional-styles.md">006 - Responsive and conditional styles</a></td>
       <td><a href="../lessons/007-design-tokens-and-css-variables.md">Chapter lesson</a></td>
       <td><a href="../qnas/007-design-tokens-and-css-variables.md">Chapter Q&amp;A</a></td>
-      <td><a href="custom-system-and-theme-configuration.md">008 - Custom system and theme configuration</a></td>
+      <td><a href="008-custom-system-and-theme-configuration.md">008 - Custom system and theme configuration</a></td>
     </tr>
   </tbody>
 </table>
