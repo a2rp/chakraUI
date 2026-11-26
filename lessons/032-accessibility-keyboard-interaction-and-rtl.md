@@ -87,10 +87,10 @@ Compare your implementation with the matching Q&A and example files. Verify the 
   </thead>
   <tbody>
     <tr>
-      <td><a href="presence-animation-and-transitions.md">031 - Presence, animation, and transitions</a></td>
+      <td><a href="031-presence-animation-and-transitions.md">031 - Presence, animation, and transitions</a></td>
       <td><a href="../qnas/032-accessibility-keyboard-interaction-and-rtl.md">Chapter Q&amp;A</a></td>
       <td><a href="../examples/032-accessibility-keyboard-interaction-and-rtl.md">Chapter example</a></td>
-      <td><a href="typescript-and-type-generation.md">033 - TypeScript and type generation</a></td>
+      <td><a href="033-typescript-and-type-generation.md">033 - TypeScript and type generation</a></td>
     </tr>
   </tbody>
 </table>
