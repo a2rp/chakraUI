@@ -84,10 +84,10 @@ Compare your implementation with the matching Q&A and example files. Verify the 
   </thead>
   <tbody>
     <tr>
-      <td><a href="layout-primitives-box-flex-and-stack.md">012 - Layout primitives: Box, Flex, and Stack</a></td>
+      <td><a href="012-layout-primitives-box-flex-and-stack.md">012 - Layout primitives: Box, Flex, and Stack</a></td>
       <td><a href="../qnas/013-grid-containers-and-positioning.md">Chapter Q&amp;A</a></td>
       <td><a href="../examples/013-grid-containers-and-positioning.md">Chapter example</a></td>
-      <td><a href="buttons-and-action-components.md">014 - Buttons and action components</a></td>
+      <td><a href="014-buttons-and-action-components.md">014 - Buttons and action components</a></td>
     </tr>
   </tbody>
 </table>
