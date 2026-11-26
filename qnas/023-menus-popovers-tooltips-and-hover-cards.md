@@ -46,10 +46,10 @@ Portals render outside the local DOM subtree to escape clipping and stacking con
   </thead>
   <tbody>
     <tr>
-      <td><a href="tabs-steps-and-navigation.md">022 - Tabs, steps, and navigation</a></td>
+      <td><a href="022-tabs-steps-and-navigation.md">022 - Tabs, steps, and navigation</a></td>
       <td><a href="../lessons/023-menus-popovers-tooltips-and-hover-cards.md">Chapter lesson</a></td>
       <td><a href="../examples/023-menus-popovers-tooltips-and-hover-cards.md">Chapter example</a></td>
-      <td><a href="dialogs-drawers-and-alert-dialogs.md">024 - Dialogs, drawers, and alert dialogs</a></td>
+      <td><a href="024-dialogs-drawers-and-alert-dialogs.md">024 - Dialogs, drawers, and alert dialogs</a></td>
     </tr>
   </tbody>
 </table>
