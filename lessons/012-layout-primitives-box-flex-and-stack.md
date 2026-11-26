@@ -84,10 +84,10 @@ Compare your implementation with the matching Q&A and example files. Verify the 
   </thead>
   <tbody>
     <tr>
-      <td><a href="typography-and-text-styles.md">011 - Typography and text styles</a></td>
+      <td><a href="011-typography-and-text-styles.md">011 - Typography and text styles</a></td>
       <td><a href="../qnas/012-layout-primitives-box-flex-and-stack.md">Chapter Q&amp;A</a></td>
       <td><a href="../examples/012-layout-primitives-box-flex-and-stack.md">Chapter example</a></td>
-      <td><a href="grid-containers-and-positioning.md">013 - Grid, containers, and positioning</a></td>
+      <td><a href="013-grid-containers-and-positioning.md">013 - Grid, containers, and positioning</a></td>
     </tr>
   </tbody>
 </table>
