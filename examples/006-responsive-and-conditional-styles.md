@@ -74,10 +74,10 @@ Check that the code's imports match the host project, that all values have stabl
   </thead>
   <tbody>
     <tr>
-      <td><a href="style-props-and-token-aware-styling.md">005 - Style props and token-aware styling</a></td>
+      <td><a href="005-style-props-and-token-aware-styling.md">005 - Style props and token-aware styling</a></td>
       <td><a href="../lessons/006-responsive-and-conditional-styles.md">Chapter lesson</a></td>
       <td><a href="../qnas/006-responsive-and-conditional-styles.md">Chapter Q&amp;A</a></td>
-      <td><a href="design-tokens-and-css-variables.md">007 - Design tokens and CSS variables</a></td>
+      <td><a href="007-design-tokens-and-css-variables.md">007 - Design tokens and CSS variables</a></td>
     </tr>
   </tbody>
 </table>
