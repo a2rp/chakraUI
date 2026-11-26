@@ -46,10 +46,10 @@ Yes. Give it a name and place it in a form; native form submission requires name
   </thead>
   <tbody>
     <tr>
-      <td><a href="buttons-and-action-components.md">014 - Buttons and action components</a></td>
+      <td><a href="014-buttons-and-action-components.md">014 - Buttons and action components</a></td>
       <td><a href="../lessons/015-fields-inputs-and-textareas.md">Chapter lesson</a></td>
       <td><a href="../examples/015-fields-inputs-and-textareas.md">Chapter example</a></td>
-      <td><a href="checkbox-radio-and-switch-controls.md">016 - Checkbox, radio, and switch controls</a></td>
+      <td><a href="016-checkbox-radio-and-switch-controls.md">016 - Checkbox, radio, and switch controls</a></td>
     </tr>
   </tbody>
 </table>
