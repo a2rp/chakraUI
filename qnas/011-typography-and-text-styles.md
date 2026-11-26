@@ -46,10 +46,10 @@ Use it for secondary labels in constrained layouts when the full value remains a
   </thead>
   <tbody>
     <tr>
-      <td><a href="color-modes-and-dark-mode.md">010 - Color modes and dark mode</a></td>
+      <td><a href="010-color-modes-and-dark-mode.md">010 - Color modes and dark mode</a></td>
       <td><a href="../lessons/011-typography-and-text-styles.md">Chapter lesson</a></td>
       <td><a href="../examples/011-typography-and-text-styles.md">Chapter example</a></td>
-      <td><a href="layout-primitives-box-flex-and-stack.md">012 - Layout primitives: Box, Flex, and Stack</a></td>
+      <td><a href="012-layout-primitives-box-flex-and-stack.md">012 - Layout primitives: Box, Flex, and Stack</a></td>
     </tr>
   </tbody>
 </table>
