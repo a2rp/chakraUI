@@ -70,10 +70,10 @@ Check that the code's imports match the host project, that all values have stabl
   </thead>
   <tbody>
     <tr>
-      <td><a href="component-anatomy-compound-apis-and-state.md">004 - Component anatomy, compound APIs, and state</a></td>
+      <td><a href="004-component-anatomy-compound-apis-and-state.md">004 - Component anatomy, compound APIs, and state</a></td>
       <td><a href="../lessons/005-style-props-and-token-aware-styling.md">Chapter lesson</a></td>
       <td><a href="../qnas/005-style-props-and-token-aware-styling.md">Chapter Q&amp;A</a></td>
-      <td><a href="responsive-and-conditional-styles.md">006 - Responsive and conditional styles</a></td>
+      <td><a href="006-responsive-and-conditional-styles.md">006 - Responsive and conditional styles</a></td>
     </tr>
   </tbody>
 </table>
