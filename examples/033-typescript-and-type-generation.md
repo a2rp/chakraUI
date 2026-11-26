@@ -75,10 +75,10 @@ Check that the code's imports match the host project, that all values have stabl
   </thead>
   <tbody>
     <tr>
-      <td><a href="accessibility-keyboard-interaction-and-rtl.md">032 - Accessibility, keyboard interaction, and RTL</a></td>
+      <td><a href="032-accessibility-keyboard-interaction-and-rtl.md">032 - Accessibility, keyboard interaction, and RTL</a></td>
       <td><a href="../lessons/033-typescript-and-type-generation.md">Chapter lesson</a></td>
       <td><a href="../qnas/033-typescript-and-type-generation.md">Chapter Q&amp;A</a></td>
-      <td><a href="nextjs-server-components-and-ssr.md">034 - Next.js, Server Components, and SSR</a></td>
+      <td><a href="034-nextjs-server-components-and-ssr.md">034 - Next.js, Server Components, and SSR</a></td>
     </tr>
   </tbody>
 </table>
