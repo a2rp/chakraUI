@@ -71,10 +71,10 @@ Check that the code's imports match the host project, that all values have stabl
   </thead>
   <tbody>
     <tr>
-      <td><a href="color-modes-and-dark-mode.md">010 - Color modes and dark mode</a></td>
+      <td><a href="010-color-modes-and-dark-mode.md">010 - Color modes and dark mode</a></td>
       <td><a href="../lessons/011-typography-and-text-styles.md">Chapter lesson</a></td>
       <td><a href="../qnas/011-typography-and-text-styles.md">Chapter Q&amp;A</a></td>
-      <td><a href="layout-primitives-box-flex-and-stack.md">012 - Layout primitives: Box, Flex, and Stack</a></td>
+      <td><a href="012-layout-primitives-box-flex-and-stack.md">012 - Layout primitives: Box, Flex, and Stack</a></td>
     </tr>
   </tbody>
 </table>
