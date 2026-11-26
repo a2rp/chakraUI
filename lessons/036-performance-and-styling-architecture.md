@@ -90,10 +90,10 @@ Compare your implementation with the matching Q&A and example files. Verify the 
   </thead>
   <tbody>
     <tr>
-      <td><a href="testing-chakra-ui-components.md">035 - Testing Chakra UI components</a></td>
+      <td><a href="035-testing-chakra-ui-components.md">035 - Testing Chakra UI components</a></td>
       <td><a href="../qnas/036-performance-and-styling-architecture.md">Chapter Q&amp;A</a></td>
       <td><a href="../examples/036-performance-and-styling-architecture.md">Chapter example</a></td>
-      <td><a href="migration-from-chakra-ui-v2-to-v3.md">037 - Migration from Chakra UI v2 to v3</a></td>
+      <td><a href="037-migration-from-chakra-ui-v2-to-v3.md">037 - Migration from Chakra UI v2 to v3</a></td>
     </tr>
   </tbody>
 </table>
