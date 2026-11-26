@@ -46,10 +46,10 @@ No. The CLI can add project-local component snippets and generate token types, b
   </thead>
   <tbody>
     <tr>
-      <td><a href="introduction-to-chakra-ui-v3.md">001 - Introduction to Chakra UI v3</a></td>
+      <td><a href="001-introduction-to-chakra-ui-v3.md">001 - Introduction to Chakra UI v3</a></td>
       <td><a href="../lessons/002-installation-and-project-setup.md">Chapter lesson</a></td>
       <td><a href="../examples/002-installation-and-project-setup.md">Chapter example</a></td>
-      <td><a href="providers-snippets-and-framework-integration.md">003 - Providers, snippets, and framework integration</a></td>
+      <td><a href="003-providers-snippets-and-framework-integration.md">003 - Providers, snippets, and framework integration</a></td>
     </tr>
   </tbody>
 </table>
