@@ -94,10 +94,10 @@ Compare your implementation with the matching Q&A and example files. Verify the 
   </thead>
   <tbody>
     <tr>
-      <td><a href="select-combobox-and-autocomplete.md">017 - Select, Combobox, and Autocomplete</a></td>
+      <td><a href="017-select-combobox-and-autocomplete.md">017 - Select, Combobox, and Autocomplete</a></td>
       <td><a href="../qnas/018-form-validation-and-react-hook-form.md">Chapter Q&amp;A</a></td>
       <td><a href="../examples/018-form-validation-and-react-hook-form.md">Chapter example</a></td>
-      <td><a href="cards-avatars-badges-and-lists.md">019 - Cards, avatars, badges, and lists</a></td>
+      <td><a href="019-cards-avatars-badges-and-lists.md">019 - Cards, avatars, badges, and lists</a></td>
     </tr>
   </tbody>
 </table>
