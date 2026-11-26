@@ -94,10 +94,10 @@ Compare your implementation with the matching Q&A and example files. Verify the 
   </thead>
   <tbody>
     <tr>
-      <td><a href="dialogs-drawers-and-alert-dialogs.md">024 - Dialogs, drawers, and alert dialogs</a></td>
+      <td><a href="024-dialogs-drawers-and-alert-dialogs.md">024 - Dialogs, drawers, and alert dialogs</a></td>
       <td><a href="../qnas/025-alerts-toasts-progress-and-loading-states.md">Chapter Q&amp;A</a></td>
       <td><a href="../examples/025-alerts-toasts-progress-and-loading-states.md">Chapter example</a></td>
-      <td><a href="tables-and-data-display.md">026 - Tables and data display</a></td>
+      <td><a href="026-tables-and-data-display.md">026 - Tables and data display</a></td>
     </tr>
   </tbody>
 </table>
