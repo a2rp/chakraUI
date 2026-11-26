@@ -74,10 +74,10 @@ Check that the code's imports match the host project, that all values have stabl
   </thead>
   <tbody>
     <tr>
-      <td><a href="nextjs-server-components-and-ssr.md">034 - Next.js, Server Components, and SSR</a></td>
+      <td><a href="034-nextjs-server-components-and-ssr.md">034 - Next.js, Server Components, and SSR</a></td>
       <td><a href="../lessons/035-testing-chakra-ui-components.md">Chapter lesson</a></td>
       <td><a href="../qnas/035-testing-chakra-ui-components.md">Chapter Q&amp;A</a></td>
-      <td><a href="performance-and-styling-architecture.md">036 - Performance and styling architecture</a></td>
+      <td><a href="036-performance-and-styling-architecture.md">036 - Performance and styling architecture</a></td>
     </tr>
   </tbody>
 </table>
