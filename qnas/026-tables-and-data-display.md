@@ -46,10 +46,10 @@ A caption gives users context about what the table contains, including those nav
   </thead>
   <tbody>
     <tr>
-      <td><a href="alerts-toasts-progress-and-loading-states.md">025 - Alerts, toasts, progress, and loading states</a></td>
+      <td><a href="025-alerts-toasts-progress-and-loading-states.md">025 - Alerts, toasts, progress, and loading states</a></td>
       <td><a href="../lessons/026-tables-and-data-display.md">Chapter lesson</a></td>
       <td><a href="../examples/026-tables-and-data-display.md">Chapter example</a></td>
-      <td><a href="date-time-color-pickers-sliders-and-rating.md">027 - Date, time, color pickers, sliders, and rating</a></td>
+      <td><a href="027-date-time-color-pickers-sliders-and-rating.md">027 - Date, time, color pickers, sliders, and rating</a></td>
     </tr>
   </tbody>
 </table>
