@@ -46,10 +46,10 @@ It previews the shape of expected content while loading. It is not a progress in
   </thead>
   <tbody>
     <tr>
-      <td><a href="dialogs-drawers-and-alert-dialogs.md">024 - Dialogs, drawers, and alert dialogs</a></td>
+      <td><a href="024-dialogs-drawers-and-alert-dialogs.md">024 - Dialogs, drawers, and alert dialogs</a></td>
       <td><a href="../lessons/025-alerts-toasts-progress-and-loading-states.md">Chapter lesson</a></td>
       <td><a href="../examples/025-alerts-toasts-progress-and-loading-states.md">Chapter example</a></td>
-      <td><a href="tables-and-data-display.md">026 - Tables and data display</a></td>
+      <td><a href="026-tables-and-data-display.md">026 - Tables and data display</a></td>
     </tr>
   </tbody>
 </table>
