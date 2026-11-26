@@ -118,7 +118,7 @@ Choose either the manual provider composition or a generated project snippet and
 
 ## Course status
 
-The roadmap defines the course structure. Each chapter is represented by a lesson, Q&A, and example file with matching numbering and names.
+All 38 chapters are complete. Each chapter has a lesson, Q&A, and example with matching three-digit numbering and a full-width navigation table tailored to its file type. Repository-local links were checked and resolve.
 
 ## License
 
