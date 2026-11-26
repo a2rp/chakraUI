@@ -46,10 +46,10 @@ Describe the image's purpose when informative. Use empty alt text for purely dec
   </thead>
   <tbody>
     <tr>
-      <td><a href="cards-avatars-badges-and-lists.md">019 - Cards, avatars, badges, and lists</a></td>
+      <td><a href="019-cards-avatars-badges-and-lists.md">019 - Cards, avatars, badges, and lists</a></td>
       <td><a href="../lessons/020-images-icons-and-file-upload.md">Chapter lesson</a></td>
       <td><a href="../examples/020-images-icons-and-file-upload.md">Chapter example</a></td>
-      <td><a href="accordion-and-collapsible-content.md">021 - Accordion and collapsible content</a></td>
+      <td><a href="021-accordion-and-collapsible-content.md">021 - Accordion and collapsible content</a></td>
     </tr>
   </tbody>
 </table>
