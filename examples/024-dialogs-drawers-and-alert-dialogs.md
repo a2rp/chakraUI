@@ -84,10 +84,10 @@ Check that the code's imports match the host project, that all values have stabl
   </thead>
   <tbody>
     <tr>
-      <td><a href="menus-popovers-tooltips-and-hover-cards.md">023 - Menus, popovers, tooltips, and hover cards</a></td>
+      <td><a href="023-menus-popovers-tooltips-and-hover-cards.md">023 - Menus, popovers, tooltips, and hover cards</a></td>
       <td><a href="../lessons/024-dialogs-drawers-and-alert-dialogs.md">Chapter lesson</a></td>
       <td><a href="../qnas/024-dialogs-drawers-and-alert-dialogs.md">Chapter Q&amp;A</a></td>
-      <td><a href="alerts-toasts-progress-and-loading-states.md">025 - Alerts, toasts, progress, and loading states</a></td>
+      <td><a href="025-alerts-toasts-progress-and-loading-states.md">025 - Alerts, toasts, progress, and loading states</a></td>
     </tr>
   </tbody>
 </table>
