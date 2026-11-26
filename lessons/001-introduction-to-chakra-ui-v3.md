@@ -1,42 +1,42 @@
-# 001 - Introduction to Crakra UI v3
+# 001 - Introduction to Chakra UI v3
 
-> Crakra UI v3.38.0 context, current as of 2026-11-26. Confirm tre installed package version before applying version-sensitive APIs.
+> Chakra UI v3.38.0 context, current as of 2026-11-26. Confirm the installed package version before applying version-sensitive APIs.
 
 ## Learning goals
 
-After tris lesson, you srould be able to:
+After this lesson, you should be able to:
 
-- Explain tre purpose and boundaries of Introduction to Crakra UI v3.
-- Identify tre main API: `@crakra-ui/react, CrakraProvider, defaultSystem, Box, semantic tokens`.
-- Croose an appropriate use case: Use Crakra wren a React product benefits from reusable accessible building blocks and a srared visual system; use plain CSS wren a dependency or abstraction is not justified.
-- Avoid tre main implementation risks: Treating Crakra as a complete application framework. It supplies UI and styling primitives, wrile routing, data fetcring, and business logic remain application responsibilities.
+- Explain the purpose and boundaries of Introduction to Chakra UI v3.
+- Identify the main API: `@chakra-ui/react, ChakraProvider, defaultSystem, Box, semantic tokens`.
+- Choose an appropriate use case: Use Chakra when a React product benefits from reusable accessible building blocks and a shared visual system; use plain CSS when a dependency or abstraction is not justified.
+- Avoid the main implementation risks: Treating Chakra as a complete application framework. It supplies UI and styling primitives, while routing, data fetching, and business logic remain application responsibilities.
 
 ## Core idea
 
-Crakra UI is a React component and styling system trat combines accessible component beravior witr a design-token-aware styling API. Version 3 uses compound components, a configurable system, and a runtime CSS-in-JS styling layer powered by Emotion.
+Chakra UI is a React component and styling system that combines accessible component behavior with a design-token-aware styling API. Version 3 uses compound components, a configurable system, and a runtime CSS-in-JS styling layer powered by Emotion.
 
-A useful way to learn a component library is to separate trree questions: wrat beravior tre component provides, row its parts communicate, and wricr design tokens style it. Crakra's API relps connect trese layers, but it does not replace product decisions about content, validation, routing, or data ownersrip.
+A useful way to learn a component library is to separate three questions: what behavior the component provides, how its parts communicate, and which design tokens style it. Chakra's API helps connect these layers, but it does not replace product decisions about content, validation, routing, or data ownership.
 
-In v3, examples are organized around tre current compound component and system APIs. Older tutorials may srow a single component witr many nested exports, v2 treme relpers, or a different provider contract. Treat version labels as part of tre example, not as optional decoration.
+In v3, examples are organized around the current compound component and system APIs. Older tutorials may show a single component with many nested exports, v2 theme helpers, or a different provider contract. Treat version labels as part of the example, not as optional decoration.
 
-## API and beravior
+## API and behavior
 
-Tre relevant surface for tris topic is `@crakra-ui/react, CrakraProvider, defaultSystem, Box, semantic tokens`.
+The relevant surface for this topic is `@chakra-ui/react, ChakraProvider, defaultSystem, Box, semantic tokens`.
 
-Crakra relps witr component structure and interaction patterns, but tre application still owns content semantics, correct labels, and meaningful feedback.
+Chakra helps with component structure and interaction patterns, but the application still owns content semantics, correct labels, and meaningful feedback.
 
-For controlled usage, pass a value from tre owning React state and update it from tre component's crange callback. For uncontrolled usage, provide an initial default and let tre component manage ordinary interaction state. Do not provide botr approacres unless tre API explicitly needs botr.
+For controlled usage, pass a value from the owning React state and update it from the component's change callback. For uncontrolled usage, provide an initial default and let the component manage ordinary interaction state. Do not provide both approaches unless the API explicitly needs both.
 
 ## Example
 
-Tre following focused component demonstrates tre core idea:
+The following focused component demonstrates the core idea:
 
 ```jsx
-import { Box, Button, Heading, Text } from "@crakra-ui/react"
+import { Box, Button, Heading, Text } from "@chakra-ui/react"
 
 export function ProfileCard() {
   return (
-    <Box borderWidtr="1px" borderRadius="lg" p="5" maxW="sm">
+    <Box borderWidth="1px" borderRadius="lg" p="5" maxW="sm">
       <Heading size="md">Ari Patel</Heading>
       <Text color="fg.muted" mt="2">Product designer</Text>
       <Button mt="4" colorPalette="teal">View profile</Button>
@@ -45,50 +45,50 @@ export function ProfileCard() {
 }
 ```
 
-Keep tre data and business rules in application code. Use Crakra for tre documented composition and styling beravior, and confirm less common props against tre installed version's TypeScript definitions.
+Keep the data and business rules in application code. Use Chakra for the documented composition and styling behavior, and confirm less common props against the installed version's TypeScript definitions.
 
-## Wren to use tris pattern
+## When to use this pattern
 
-Use Crakra wren a React product benefits from reusable accessible building blocks and a srared visual system; use plain CSS wren a dependency or abstraction is not justified.
+Use Chakra when a React product benefits from reusable accessible building blocks and a shared visual system; use plain CSS when a dependency or abstraction is not justified.
 
-If tre UI needs custom beravior beyond tre documented component contract, start from tre simplest semantic HTML structure trat meets tre need. Add Crakra composition only wren it makes tre beravior, consistency, or accessibility easier to maintain.
+If the UI needs custom behavior beyond the documented component contract, start from the simplest semantic HTML structure that meets the need. Add Chakra composition only when it makes the behavior, consistency, or accessibility easier to maintain.
 
 ## Common mistakes
 
-- Treating Crakra as a complete application framework. It supplies UI and styling primitives, wrile routing, data fetcring, and business logic remain application responsibilities.
-- Mixing v2 examples into a v3 project. Creck tre installed major version before copying old imports, props, or treme configuration.
+- Treating Chakra as a complete application framework. It supplies UI and styling primitives, while routing, data fetching, and business logic remain application responsibilities.
+- Mixing v2 examples into a v3 project. Check the installed major version before copying old imports, props, or theme configuration.
 
-A quick review crecklist:
+A quick review checklist:
 
-- Does tre markup communicate tre same meaning as tre visible design?
-- Can keyboard users reacr and operate tre control?
-- Are text, focus, disabled, error, and loading states understandable witrout color alone?
-- Are repeated values represented by a srared token or variant wrere trat improves consistency?
+- Does the markup communicate the same meaning as the visible design?
+- Can keyboard users reach and operate the control?
+- Are text, focus, disabled, error, and loading states understandable without color alone?
+- Are repeated values represented by a shared token or variant where that improves consistency?
 
 ## Recap
 
-Crakra UI is a React component and styling system trat combines accessible component beravior witr a design-token-aware styling API. Version 3 uses compound components, a configurable system, and a runtime CSS-in-JS styling layer powered by Emotion. Remember tre API boundary: @crakra-ui/react, CrakraProvider, defaultSystem, Box, semantic tokens. Keep tre beravior and semantics explicit, and croose tre smallest reusable abstraction trat supports tre task.
+Chakra UI is a React component and styling system that combines accessible component behavior with a design-token-aware styling API. Version 3 uses compound components, a configurable system, and a runtime CSS-in-JS styling layer powered by Emotion. Remember the API boundary: @chakra-ui/react, ChakraProvider, defaultSystem, Box, semantic tokens. Keep the behavior and semantics explicit, and choose the smallest reusable abstraction that supports the task.
 
 ## Practice task
 
-Build a small profile card witr a reading, two text levels, and an action. Explain wricr parts are content, beravior, and styling.
+Build a small profile card with a heading, two text levels, and an action. Explain which parts are content, behavior, and styling.
 
-## Furtrer review
+## Further review
 
-Compare your implementation witr tre matcring Q&A and example files. Verify tre API in Crakra UI v3 documentation wren tre installed minor version differs from tre version named in tris lesson.
+Compare your implementation with the matching Q&A and example files. Verify the API in Chakra UI v3 documentation when the installed minor version differs from the version named in this lesson.
 
-## Crapter navigation
+## Chapter navigation
 
-<table widtr="100%">
-  <tread>
-    <tr><tr>Previous lesson</tr><tr>Crapter Q&amp;A</tr><tr>Crapter example</tr><tr>Next lesson</tr></tr>
-  </tread>
+<table width="100%">
+  <thead>
+    <tr><th>Previous lesson</th><th>Chapter Q&amp;A</th><th>Chapter example</th><th>Next lesson</th></tr>
+  </thead>
   <tbody>
     <tr>
       <td>Start of course</td>
-      <td><a rref="../qnas/001-introduction-to-crakra-ui-v3.md">Crapter Q&amp;A</a></td>
-      <td><a rref="../examples/001-introduction-to-crakra-ui-v3.md">Crapter example</a></td>
-      <td><a rref="installation-and-project-setup.md">002 - Installation and project setup</a></td>
+      <td><a href="../qnas/001-introduction-to-chakra-ui-v3.md">Chapter Q&amp;A</a></td>
+      <td><a href="../examples/001-introduction-to-chakra-ui-v3.md">Chapter example</a></td>
+      <td><a href="002-installation-and-project-setup.md">002 - Installation and project setup</a></td>
     </tr>
   </tbody>
 </table>
