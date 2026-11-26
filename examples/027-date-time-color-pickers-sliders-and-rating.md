@@ -74,10 +74,10 @@ Check that the code's imports match the host project, that all values have stabl
   </thead>
   <tbody>
     <tr>
-      <td><a href="tables-and-data-display.md">026 - Tables and data display</a></td>
+      <td><a href="026-tables-and-data-display.md">026 - Tables and data display</a></td>
       <td><a href="../lessons/027-date-time-color-pickers-sliders-and-rating.md">Chapter lesson</a></td>
       <td><a href="../qnas/027-date-time-color-pickers-sliders-and-rating.md">Chapter Q&amp;A</a></td>
-      <td><a href="recipes-and-reusable-component-variants.md">028 - Recipes and reusable component variants</a></td>
+      <td><a href="028-recipes-and-reusable-component-variants.md">028 - Recipes and reusable component variants</a></td>
     </tr>
   </tbody>
 </table>
