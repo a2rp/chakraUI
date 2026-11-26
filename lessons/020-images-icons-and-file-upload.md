@@ -94,10 +94,10 @@ Compare your implementation with the matching Q&A and example files. Verify the 
   </thead>
   <tbody>
     <tr>
-      <td><a href="cards-avatars-badges-and-lists.md">019 - Cards, avatars, badges, and lists</a></td>
+      <td><a href="019-cards-avatars-badges-and-lists.md">019 - Cards, avatars, badges, and lists</a></td>
       <td><a href="../qnas/020-images-icons-and-file-upload.md">Chapter Q&amp;A</a></td>
       <td><a href="../examples/020-images-icons-and-file-upload.md">Chapter example</a></td>
-      <td><a href="accordion-and-collapsible-content.md">021 - Accordion and collapsible content</a></td>
+      <td><a href="021-accordion-and-collapsible-content.md">021 - Accordion and collapsible content</a></td>
     </tr>
   </tbody>
 </table>
