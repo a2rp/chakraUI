@@ -76,10 +76,10 @@ Check that the code's imports match the host project, that all values have stabl
   </thead>
   <tbody>
     <tr>
-      <td><a href="fields-inputs-and-textareas.md">015 - Fields, inputs, and textareas</a></td>
+      <td><a href="015-fields-inputs-and-textareas.md">015 - Fields, inputs, and textareas</a></td>
       <td><a href="../lessons/016-checkbox-radio-and-switch-controls.md">Chapter lesson</a></td>
       <td><a href="../qnas/016-checkbox-radio-and-switch-controls.md">Chapter Q&amp;A</a></td>
-      <td><a href="select-combobox-and-autocomplete.md">017 - Select, Combobox, and Autocomplete</a></td>
+      <td><a href="017-select-combobox-and-autocomplete.md">017 - Select, Combobox, and Autocomplete</a></td>
     </tr>
   </tbody>
 </table>
