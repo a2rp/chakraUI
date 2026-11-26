@@ -46,10 +46,10 @@ Run Chakra CLI typegen after changing the system or recipe definitions so genera
   </thead>
   <tbody>
     <tr>
-      <td><a href="date-time-color-pickers-sliders-and-rating.md">027 - Date, time, color pickers, sliders, and rating</a></td>
+      <td><a href="027-date-time-color-pickers-sliders-and-rating.md">027 - Date, time, color pickers, sliders, and rating</a></td>
       <td><a href="../lessons/028-recipes-and-reusable-component-variants.md">Chapter lesson</a></td>
       <td><a href="../examples/028-recipes-and-reusable-component-variants.md">Chapter example</a></td>
-      <td><a href="slot-recipes-and-multi-part-components.md">029 - Slot recipes and multi-part components</a></td>
+      <td><a href="029-slot-recipes-and-multi-part-components.md">029 - Slot recipes and multi-part components</a></td>
     </tr>
   </tbody>
 </table>
