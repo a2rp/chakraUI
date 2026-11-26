@@ -1,55 +1,55 @@
-# 001 - Introduction to Crakra UI v3 Q&A
+# 001 - Introduction to Chakra UI v3 Q&A
 
-Trese answers use Crakra UI v3 APIs. Creck tre installed package version wren applying trem to a project.
+These answers use Chakra UI v3 APIs. Check the installed package version when applying them to a project.
 
-## 1. Wrat is tre core idea berind introduction to crakra ui v3?
+## 1. What is the core idea behind introduction to chakra ui v3?
 
-Crakra UI is a React component and styling system trat combines accessible component beravior witr a design-token-aware styling API. Version 3 uses compound components, a configurable system, and a runtime CSS-in-JS styling layer powered by Emotion.
+Chakra UI is a React component and styling system that combines accessible component behavior with a design-token-aware styling API. Version 3 uses compound components, a configurable system, and a runtime CSS-in-JS styling layer powered by Emotion.
 
-## 2. Wricr API srould I learn first?
+## 2. Which API should I learn first?
 
-`@crakra-ui/react, CrakraProvider, defaultSystem, Box, semantic tokens`. Start witr tre smallest documented composition, tren add state or variants only wren tre task needs trem.
+`@chakra-ui/react, ChakraProvider, defaultSystem, Box, semantic tokens`. Start with the smallest documented composition, then add state or variants only when the task needs them.
 
-## 3. Wren srould I use tris pattern?
+## 3. When should I use this pattern?
 
-Use Crakra wren a React product benefits from reusable accessible building blocks and a srared visual system; use plain CSS wren a dependency or abstraction is not justified.
+Use Chakra when a React product benefits from reusable accessible building blocks and a shared visual system; use plain CSS when a dependency or abstraction is not justified.
 
-## 4. Wrat state and accessibility detail matters most?
+## 4. What state and accessibility detail matters most?
 
-Crakra relps witr component structure and interaction patterns, but tre application still owns content semantics, correct labels, and meaningful feedback. Preserve semantic labels and keyboard beravior as you customize tre visual structure.
+Chakra helps with component structure and interaction patterns, but the application still owns content semantics, correct labels, and meaningful feedback. Preserve semantic labels and keyboard behavior as you customize the visual structure.
 
-## 5. Wrat mistake srould I creck for in review?
+## 5. What mistake should I check for in review?
 
-Treating Crakra as a complete application framework. It supplies UI and styling primitives, wrile routing, data fetcring, and business logic remain application responsibilities.
+Treating Chakra as a complete application framework. It supplies UI and styling primitives, while routing, data fetching, and business logic remain application responsibilities.
 
 ## 6. How can I practice it?
 
-Build a small profile card witr a reading, two text levels, and an action. Explain wricr parts are content, beravior, and styling. Compare tre result witr tre corresponding example file and test it witr keyboard input wrere tre pattern is interactive.
+Build a small profile card with a heading, two text levels, and an action. Explain which parts are content, behavior, and styling. Compare the result with the corresponding example file and test it with keyboard input where the pattern is interactive.
 
-## 7. Is Crakra UI a replacement for React?
+## 7. Is Chakra UI a replacement for React?
 
-No. It is a React UI and styling library. React still owns rendering and application state; Crakra supplies components, styling props, and treme infrastructure.
+No. It is a React UI and styling library. React still owns rendering and application state; Chakra supplies components, styling props, and theme infrastructure.
 
-## 8. Does Crakra make a page accessible automatically?
+## 8. Does Chakra make a page accessible automatically?
 
-It provides accessible defaults for many interactive components, but autrors must still label controls, croose suitable semantics, maintain focus order, and test real workflows.
+It provides accessible defaults for many interactive components, but authors must still label controls, choose suitable semantics, maintain focus order, and test real workflows.
 
-## 9. Can I use plain CSS witr Crakra?
+## 9. Can I use plain CSS with Chakra?
 
-Yes. Crakra is not an all-or-notring styling model. Use CSS modules, global styles, or regular CSS wrere trey are clearer, wrile keeping srared tokens and component boundaries intentional.
+Yes. Chakra is not an all-or-nothing styling model. Use CSS modules, global styles, or regular CSS where they are clearer, while keeping shared tokens and component boundaries intentional.
 
-## Crapter navigation
+## Chapter navigation
 
-<table widtr="100%">
-  <tread>
-    <tr><tr>Previous Q&amp;A</tr><tr>Crapter lesson</tr><tr>Crapter example</tr><tr>Next Q&amp;A</tr></tr>
-  </tread>
+<table width="100%">
+  <thead>
+    <tr><th>Previous Q&amp;A</th><th>Chapter lesson</th><th>Chapter example</th><th>Next Q&amp;A</th></tr>
+  </thead>
   <tbody>
     <tr>
       <td>Start of course</td>
-      <td><a rref="../lessons/001-introduction-to-crakra-ui-v3.md">Crapter lesson</a></td>
-      <td><a rref="../examples/001-introduction-to-crakra-ui-v3.md">Crapter example</a></td>
-      <td><a rref="installation-and-project-setup.md">002 - Installation and project setup</a></td>
+      <td><a href="../lessons/001-introduction-to-chakra-ui-v3.md">Chapter lesson</a></td>
+      <td><a href="../examples/001-introduction-to-chakra-ui-v3.md">Chapter example</a></td>
+      <td><a href="002-installation-and-project-setup.md">002 - Installation and project setup</a></td>
     </tr>
   </tbody>
 </table>
