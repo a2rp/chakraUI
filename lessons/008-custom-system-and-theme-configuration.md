@@ -93,10 +93,10 @@ Compare your implementation with the matching Q&A and example files. Verify the 
   </thead>
   <tbody>
     <tr>
-      <td><a href="design-tokens-and-css-variables.md">007 - Design tokens and CSS variables</a></td>
+      <td><a href="007-design-tokens-and-css-variables.md">007 - Design tokens and CSS variables</a></td>
       <td><a href="../qnas/008-custom-system-and-theme-configuration.md">Chapter Q&amp;A</a></td>
       <td><a href="../examples/008-custom-system-and-theme-configuration.md">Chapter example</a></td>
-      <td><a href="semantic-tokens-and-color-palettes.md">009 - Semantic tokens and color palettes</a></td>
+      <td><a href="009-semantic-tokens-and-color-palettes.md">009 - Semantic tokens and color palettes</a></td>
     </tr>
   </tbody>
 </table>
