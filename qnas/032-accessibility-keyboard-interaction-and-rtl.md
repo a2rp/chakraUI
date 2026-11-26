@@ -46,10 +46,10 @@ No. Prefer a visible label when possible. Add aria-label when a control has no v
   </thead>
   <tbody>
     <tr>
-      <td><a href="presence-animation-and-transitions.md">031 - Presence, animation, and transitions</a></td>
+      <td><a href="031-presence-animation-and-transitions.md">031 - Presence, animation, and transitions</a></td>
       <td><a href="../lessons/032-accessibility-keyboard-interaction-and-rtl.md">Chapter lesson</a></td>
       <td><a href="../examples/032-accessibility-keyboard-interaction-and-rtl.md">Chapter example</a></td>
-      <td><a href="typescript-and-type-generation.md">033 - TypeScript and type generation</a></td>
+      <td><a href="033-typescript-and-type-generation.md">033 - TypeScript and type generation</a></td>
     </tr>
   </tbody>
 </table>
