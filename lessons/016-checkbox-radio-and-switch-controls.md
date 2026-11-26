@@ -92,10 +92,10 @@ Compare your implementation with the matching Q&A and example files. Verify the 
   </thead>
   <tbody>
     <tr>
-      <td><a href="fields-inputs-and-textareas.md">015 - Fields, inputs, and textareas</a></td>
+      <td><a href="015-fields-inputs-and-textareas.md">015 - Fields, inputs, and textareas</a></td>
       <td><a href="../qnas/016-checkbox-radio-and-switch-controls.md">Chapter Q&amp;A</a></td>
       <td><a href="../examples/016-checkbox-radio-and-switch-controls.md">Chapter example</a></td>
-      <td><a href="select-combobox-and-autocomplete.md">017 - Select, Combobox, and Autocomplete</a></td>
+      <td><a href="017-select-combobox-and-autocomplete.md">017 - Select, Combobox, and Autocomplete</a></td>
     </tr>
   </tbody>
 </table>
