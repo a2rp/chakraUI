@@ -70,10 +70,10 @@ Check that the code's imports match the host project, that all values have stabl
   </thead>
   <tbody>
     <tr>
-      <td><a href="installation-and-project-setup.md">002 - Installation and project setup</a></td>
+      <td><a href="002-installation-and-project-setup.md">002 - Installation and project setup</a></td>
       <td><a href="../lessons/003-providers-snippets-and-framework-integration.md">Chapter lesson</a></td>
       <td><a href="../qnas/003-providers-snippets-and-framework-integration.md">Chapter Q&amp;A</a></td>
-      <td><a href="component-anatomy-compound-apis-and-state.md">004 - Component anatomy, compound APIs, and state</a></td>
+      <td><a href="004-component-anatomy-compound-apis-and-state.md">004 - Component anatomy, compound APIs, and state</a></td>
     </tr>
   </tbody>
 </table>
