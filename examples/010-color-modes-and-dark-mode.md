@@ -73,10 +73,10 @@ Check that the code's imports match the host project, that all values have stabl
   </thead>
   <tbody>
     <tr>
-      <td><a href="semantic-tokens-and-color-palettes.md">009 - Semantic tokens and color palettes</a></td>
+      <td><a href="009-semantic-tokens-and-color-palettes.md">009 - Semantic tokens and color palettes</a></td>
       <td><a href="../lessons/010-color-modes-and-dark-mode.md">Chapter lesson</a></td>
       <td><a href="../qnas/010-color-modes-and-dark-mode.md">Chapter Q&amp;A</a></td>
-      <td><a href="typography-and-text-styles.md">011 - Typography and text styles</a></td>
+      <td><a href="011-typography-and-text-styles.md">011 - Typography and text styles</a></td>
     </tr>
   </tbody>
 </table>
