@@ -46,10 +46,10 @@ Often yes if the visual affordance is supplied another way, but follow the compo
   </thead>
   <tbody>
     <tr>
-      <td><a href="providers-snippets-and-framework-integration.md">003 - Providers, snippets, and framework integration</a></td>
+      <td><a href="003-providers-snippets-and-framework-integration.md">003 - Providers, snippets, and framework integration</a></td>
       <td><a href="../lessons/004-component-anatomy-compound-apis-and-state.md">Chapter lesson</a></td>
       <td><a href="../examples/004-component-anatomy-compound-apis-and-state.md">Chapter example</a></td>
-      <td><a href="style-props-and-token-aware-styling.md">005 - Style props and token-aware styling</a></td>
+      <td><a href="005-style-props-and-token-aware-styling.md">005 - Style props and token-aware styling</a></td>
     </tr>
   </tbody>
 </table>
