@@ -46,10 +46,10 @@ No. The application decides whether content is present; Presence handles the tra
   </thead>
   <tbody>
     <tr>
-      <td><a href="composition-chakra-factory-and-aschild.md">030 - Composition, Chakra factory, and asChild</a></td>
+      <td><a href="030-composition-chakra-factory-and-aschild.md">030 - Composition, Chakra factory, and asChild</a></td>
       <td><a href="../lessons/031-presence-animation-and-transitions.md">Chapter lesson</a></td>
       <td><a href="../examples/031-presence-animation-and-transitions.md">Chapter example</a></td>
-      <td><a href="accessibility-keyboard-interaction-and-rtl.md">032 - Accessibility, keyboard interaction, and RTL</a></td>
+      <td><a href="032-accessibility-keyboard-interaction-and-rtl.md">032 - Accessibility, keyboard interaction, and RTL</a></td>
     </tr>
   </tbody>
 </table>
