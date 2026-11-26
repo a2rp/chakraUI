@@ -86,10 +86,10 @@ Compare your implementation with the matching Q&A and example files. Verify the 
   </thead>
   <tbody>
     <tr>
-      <td><a href="installation-and-project-setup.md">002 - Installation and project setup</a></td>
+      <td><a href="002-installation-and-project-setup.md">002 - Installation and project setup</a></td>
       <td><a href="../qnas/003-providers-snippets-and-framework-integration.md">Chapter Q&amp;A</a></td>
       <td><a href="../examples/003-providers-snippets-and-framework-integration.md">Chapter example</a></td>
-      <td><a href="component-anatomy-compound-apis-and-state.md">004 - Component anatomy, compound APIs, and state</a></td>
+      <td><a href="004-component-anatomy-compound-apis-and-state.md">004 - Component anatomy, compound APIs, and state</a></td>
     </tr>
   </tbody>
 </table>
