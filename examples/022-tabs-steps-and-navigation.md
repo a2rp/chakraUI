@@ -72,10 +72,10 @@ Check that the code's imports match the host project, that all values have stabl
   </thead>
   <tbody>
     <tr>
-      <td><a href="accordion-and-collapsible-content.md">021 - Accordion and collapsible content</a></td>
+      <td><a href="021-accordion-and-collapsible-content.md">021 - Accordion and collapsible content</a></td>
       <td><a href="../lessons/022-tabs-steps-and-navigation.md">Chapter lesson</a></td>
       <td><a href="../qnas/022-tabs-steps-and-navigation.md">Chapter Q&amp;A</a></td>
-      <td><a href="menus-popovers-tooltips-and-hover-cards.md">023 - Menus, popovers, tooltips, and hover cards</a></td>
+      <td><a href="023-menus-popovers-tooltips-and-hover-cards.md">023 - Menus, popovers, tooltips, and hover cards</a></td>
     </tr>
   </tbody>
 </table>
