@@ -91,10 +91,10 @@ Compare your implementation with the matching Q&A and example files. Verify the 
   </thead>
   <tbody>
     <tr>
-      <td><a href="composition-chakra-factory-and-aschild.md">030 - Composition, Chakra factory, and asChild</a></td>
+      <td><a href="030-composition-chakra-factory-and-aschild.md">030 - Composition, Chakra factory, and asChild</a></td>
       <td><a href="../qnas/031-presence-animation-and-transitions.md">Chapter Q&amp;A</a></td>
       <td><a href="../examples/031-presence-animation-and-transitions.md">Chapter example</a></td>
-      <td><a href="accessibility-keyboard-interaction-and-rtl.md">032 - Accessibility, keyboard interaction, and RTL</a></td>
+      <td><a href="032-accessibility-keyboard-interaction-and-rtl.md">032 - Accessibility, keyboard interaction, and RTL</a></td>
     </tr>
   </tbody>
 </table>
