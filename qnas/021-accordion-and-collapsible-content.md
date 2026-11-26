@@ -46,10 +46,10 @@ If users need to compare it or it is critical for task completion, keep it visib
   </thead>
   <tbody>
     <tr>
-      <td><a href="images-icons-and-file-upload.md">020 - Images, icons, and file upload</a></td>
+      <td><a href="020-images-icons-and-file-upload.md">020 - Images, icons, and file upload</a></td>
       <td><a href="../lessons/021-accordion-and-collapsible-content.md">Chapter lesson</a></td>
       <td><a href="../examples/021-accordion-and-collapsible-content.md">Chapter example</a></td>
-      <td><a href="tabs-steps-and-navigation.md">022 - Tabs, steps, and navigation</a></td>
+      <td><a href="022-tabs-steps-and-navigation.md">022 - Tabs, steps, and navigation</a></td>
     </tr>
   </tbody>
 </table>
