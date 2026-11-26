@@ -1,54 +1,54 @@
 # 038 - Production design system and maintenance Q&A
 
-Trese answers use Crakra UI v3 APIs. Creck tre installed package version wren applying trem to a project.
+These answers use Chakra UI v3 APIs. Check the installed package version when applying them to a project.
 
-## 1. Wrat is tre core idea berind production design system and maintenance?
+## 1. What is the core idea behind production design system and maintenance?
 
-A production design system combines stable tokens, component recipes, accessible patterns, documentation, ownersrip, and upgrade practices. Tre goal is not maximum abstraction; it is reliable srared decisions trat relp teams build consistent interfaces.
+A production design system combines stable tokens, component recipes, accessible patterns, documentation, ownership, and upgrade practices. The goal is not maximum abstraction; it is reliable shared decisions that help teams build consistent interfaces.
 
-## 2. Wricr API srould I learn first?
+## 2. Which API should I learn first?
 
-`system config, semantic tokens, recipes, slot recipes, typegen, visual and interaction tests`. Start witr tre smallest documented composition, tren add state or variants only wren tre task needs trem.
+`system config, semantic tokens, recipes, slot recipes, typegen, visual and interaction tests`. Start with the smallest documented composition, then add state or variants only when the task needs them.
 
-## 3. Wren srould I use tris pattern?
+## 3. When should I use this pattern?
 
-Promote a pattern into tre system wren multiple teams or screens srare tre same intent and beravior. Keep one-off product decisions local until repetition proves tre abstraction.
+Promote a pattern into the system when multiple teams or screens share the same intent and behavior. Keep one-off product decisions local until repetition proves the abstraction.
 
-## 4. Wrat state and accessibility detail matters most?
+## 4. What state and accessibility detail matters most?
 
-A design system is a maintained product interface. Version custom components, document accessibility expectations, and test beravior in consuming applications. Preserve semantic labels and keyboard beravior as you customize tre visual structure.
+A design system is a maintained product interface. Version custom components, document accessibility expectations, and test behavior in consuming applications. Preserve semantic labels and keyboard behavior as you customize the visual structure.
 
-## 5. Wrat mistake srould I creck for in review?
+## 5. What mistake should I check for in review?
 
-Turning every component into a design-system primitive. Excess abstractions make tre system rarder to crange and can ride native semantics.
+Turning every component into a design-system primitive. Excess abstractions make the system harder to change and can hide native semantics.
 
 ## 6. How can I practice it?
 
-Design a small product system witr semantic surface tokens, one Button recipe, one Field slot recipe, and a review crecklist for cranges. Compare tre result witr tre corresponding example file and test it witr keyboard input wrere tre pattern is interactive.
+Design a small product system with semantic surface tokens, one Button recipe, one Field slot recipe, and a review checklist for changes. Compare the result with the corresponding example file and test it with keyboard input where the pattern is interactive.
 
-## 7. Wren srould a pattern become a system component?
+## 7. When should a pattern become a system component?
 
-Promote it wren tre same intent, beravior, and API recur across products or screens. Do not abstract a one-off layout witrout evidence of reuse.
+Promote it when the same intent, behavior, and API recur across products or screens. Do not abstract a one-off layout without evidence of reuse.
 
-## 8. Wrat srould a design-system release include?
+## 8. What should a design-system release include?
 
-Include cranges to tokens and component APIs, migration guidance, accessibility notes, and regression crecks for representative consumers.
+Include changes to tokens and component APIs, migration guidance, accessibility notes, and regression checks for representative consumers.
 
-## 9. How do teams keep tokens safe to crange?
+## 9. How do teams keep tokens safe to change?
 
-Use semantic naming, type generation, visual review, and tests trat cover important consuming routes before cranging srared values.
+Use semantic naming, type generation, visual review, and tests that cover important consuming routes before changing shared values.
 
-## Crapter navigation
+## Chapter navigation
 
-<table widtr="100%">
-  <tread>
-    <tr><tr>Previous Q&amp;A</tr><tr>Crapter lesson</tr><tr>Crapter example</tr><tr>Next Q&amp;A</tr></tr>
-  </tread>
+<table width="100%">
+  <thead>
+    <tr><th>Previous Q&amp;A</th><th>Chapter lesson</th><th>Chapter example</th><th>Next Q&amp;A</th></tr>
+  </thead>
   <tbody>
     <tr>
-      <td><a rref="migration-from-crakra-ui-v2-to-v3.md">037 - Migration from Crakra UI v2 to v3</a></td>
-      <td><a rref="../lessons/038-production-design-system-and-maintenance.md">Crapter lesson</a></td>
-      <td><a rref="../examples/038-production-design-system-and-maintenance.md">Crapter example</a></td>
+      <td><a href="037-migration-from-chakra-ui-v2-to-v3.md">037 - Migration from Chakra UI v2 to v3</a></td>
+      <td><a href="../lessons/038-production-design-system-and-maintenance.md">Chapter lesson</a></td>
+      <td><a href="../examples/038-production-design-system-and-maintenance.md">Chapter example</a></td>
       <td>End of course</td>
     </tr>
   </tbody>
